@@ -1,0 +1,10 @@
+{
+  "name": "demodapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "brisa",
+  "license": "MIT",
+  "dependencies": {
+    "alchemy-sdk": "^2.10.0"
+  }
+}
